@@ -22,19 +22,16 @@ A simple scroll view
     <body>
         <center>
         <h1>GeeksforGeeks</h1>
-        <div class="scroll">It is a good platform to learn programming.
-        It is an educational website. Prepare for the Recruitment drive
-        of product based companies like Microsoft, Amazon, Adobe etc with
-        a free online placement preparation course. The course focuses
-        on various MCQ's & Coding question likely to be asked in the
-        interviews & make your upcoming placement season efficient and
-        successful. Also, any geeks can help other geeks by writing
-        articles on the GeeksforGeeks, publishing articles follow few
-        steps that are Articles that need little modification/improvement
-        from reviewers are published first. To quickly get your articles
-        reviewed, please refer existing articles, their formatting style,
-        coding style, and try to make you are close to them. In case you
-        are a beginner, you may refer Guidelines to write an Article
+        <div class="scroll">Lorem Ipsum is simply dummy text of the printing and 
+typesetting industry. Lorem Ipsum has been the industry's 
+standard dummy text ever since the 1500s, when an unknown 
+printer took a galley of type and scrambled it to make a 
+type specimen book. It has survived not only five centuries, 
+but also the leap into electronic typesetting, 
+remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset 
+sheets containing Lorem Ipsum passages, and more recently 
+with desktop publishing software like Aldus PageMaker 
+including versions of Lorem Ipsum.
         </div>
         </center>
     </body>
